@@ -8,5 +8,3 @@ Trabajo en lo que me han pedido en otro trabajo
 cambio de rama uno
 
 cambio pruebas git
-
-prueba revert
