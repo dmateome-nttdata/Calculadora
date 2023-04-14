@@ -12,3 +12,4 @@ cambio pruebas git
 //errores solucionados
 
 cambio que de momento no quiero liberar
+errror en produccion
