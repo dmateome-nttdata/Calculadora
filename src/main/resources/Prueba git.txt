@@ -10,3 +10,5 @@ cambio de rama uno
 cambio pruebas git
 
 //errores solucionados
+
+cambio que de momento no quiero liberar
