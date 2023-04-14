@@ -8,3 +8,8 @@ Trabajo en lo que me han pedido en otro trabajo
 cambio de rama uno
 
 cambio pruebas git
+
+//errores solucionados
+
+cambio que de momento no quiero liberar
+errror en produccion
